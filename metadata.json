@@ -1,0 +1,6 @@
+{
+  "name": "PlantWise",
+  "description": "AI-powered agricultural robot platform for camera-based plant disease detection, weather-adaptive precision irrigation, offline field sync, mobile health alerts, and historical crop yield analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
